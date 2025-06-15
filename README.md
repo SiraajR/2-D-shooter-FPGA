@@ -71,7 +71,7 @@ DE1_SoC.sv
 ![Game screenshot](img1.png)
 Map 1 screenshot 
 
-![Map 2](img2.png)
+![Map 2](img3.png)
 
 ## 📂 License
 
