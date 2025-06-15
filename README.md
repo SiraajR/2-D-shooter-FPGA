@@ -68,7 +68,7 @@ DE1_SoC.sv
 
 ## 📺 Screenshots
 
-[Game screenshot][img1.png]
+![Game screenshot](img1.png)
 
 ## 📂 License
 
